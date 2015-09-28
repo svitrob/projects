@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- the same as basic contacts XML, but different namespace name -->
+<ns:contacts xmlns:ns="http://www.w3schools.com/people">
+    <ns:contact id="1">
+        <ns:name>Jan Novák</ns:name>
+        <ns:birthday>10/1/1984</ns:birthday>
+        <ns:phone-numbers>
+            <ns:phone-number>
+                <ns:number>+420123456789</ns:number>
+                <ns:description>Mobile</ns:description>
+            </ns:phone-number>
+            <ns:phone-number>
+                <ns:number>+420987654321</ns:number>
+                <ns:description>Work</ns:description>
+            </ns:phone-number>
+        </ns:phone-numbers>
+        <ns:emails>
+            <ns:email desc="work">jnovak@company.cz</ns:email>
+            <ns:email desc="private">jan.novak@seznam.cz</ns:email>
+        </ns:emails>
+        <ns:hobbies>
+            <ns:hobby type="outdoor" skill="2">cycling</ns:hobby>
+            <ns:hobby type="indoor" skill="3">chess</ns:hobby>
+        </ns:hobbies>
+    </ns:contact>
+    <ns:contact id="2">
+        <ns:name>Petr Malý</ns:name>
+        <ns:birthday>20/1/1982</ns:birthday>
+        <ns:phone-numbers>
+            <ns:phone-number>
+                <ns:number>+420999888777</ns:number>
+                <ns:description>Mobile</ns:description>
+            </ns:phone-number>
+            <ns:phone-number>
+                <ns:number>+420666555444</ns:number>
+                <ns:description>Work</ns:description>
+            </ns:phone-number>
+        </ns:phone-numbers>
+        <ns:emails></ns:emails>
+        <ns:hobbies>
+            <ns:hobby type="indoor" skill="1">chess</ns:hobby>
+            <ns:hobby type="outdoor" skill="3">skying</ns:hobby>
+            <ns:hobby type="outdoor" skill="2">rock-climbing</ns:hobby>
+        </ns:hobbies>
+    </ns:contact>
+</ns:contacts>

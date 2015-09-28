@@ -1,2 +1,3 @@
 # projects
-first repo
+
+school projects

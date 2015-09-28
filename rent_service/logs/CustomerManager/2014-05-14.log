@@ -1,0 +1,402 @@
+08:12:47.512 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:47.716 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:47.730 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:12:47.732 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:12:47.750 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+08:12:48.028 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:48.030 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:12:48.031 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:12:48.140 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:48.148 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:12:48.150 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:12:48.292 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+08:12:48.387 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:48.394 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:12:48.438 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:12:48.439 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:12:48.443 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+08:13:04.464 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:04.515 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:13:04.526 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:13:04.614 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:04.713 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:04.854 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:04.877 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:13:04.887 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:13:04.969 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:04.992 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:13:05.000 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+08:13:05.266 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:13:05.274 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:17:06.737 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:17:06.741 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:25:20.734 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:25:20.749 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:36:38.588 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:36:38.591 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:36:42.642 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+08:36:52.328 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:36:54.619 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+08:44:09.342 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:44:09.345 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:45:26.267 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:45:26.270 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+08:47:14.824 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+08:47:14.828 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+10:08:38.931 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+10:08:39.004 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+10:10:23.093 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+10:10:23.115 [AWT-EventQueue-0] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+10:37:14.786 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Table/View 'CUSTOMER' does not exist.
+java.sql.SQLSyntaxErrorException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:342) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1024) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:158) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:52) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$16.run(MainWindow.java:965) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) [na:1.7.0_51]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) [na:1.7.0_51]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_51]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_51]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_51]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_51]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_51]
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 22 common frames omitted
+11:14:01.093 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Chyba pri z�skavan� v�etk�ch ent�t z datab�zy : Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1157) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:159) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:53) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1098) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) [na:1.7.0_40]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_40]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_40]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_40]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_40]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_40]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	... 32 common frames omitted
+11:15:08.281 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Chyba pri z�skavan� v�etk�ch ent�t z datab�zy : Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1157) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:159) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:53) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1098) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) [na:1.7.0_40]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_40]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_40]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_40]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_40]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_40]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	... 32 common frames omitted
+11:15:28.500 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Chyba pri z�skavan� v�etk�ch ent�t z datab�zy : Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1157) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:159) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:53) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1098) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) [na:1.7.0_40]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_40]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_40]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_40]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_40]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_40]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	... 32 common frames omitted
+11:38:15.765 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Chyba pri z�skavan� v�etk�ch ent�t z datab�zy : Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) [na:1.7.0_40]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_40]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_40]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_40]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_40]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused: connect.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_40]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_40]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.7.0_40]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_40]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_40]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_40]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_40]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_40]
+	... 32 common frames omitted
+12:12:51.133 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:51.186 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:51.198 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:51.298 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:51.414 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:51.572 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:51.600 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:51.612 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:51.707 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:51.735 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:51.744 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:52.038 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.048 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.118 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.227 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.235 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.237 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:52.244 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} odstraněna z databáze.
+12:12:52.451 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.452 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.452 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:52.539 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.547 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.549 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} přidaná do databázy.
+12:12:52.660 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} přidaná do databázy.
+12:12:52.735 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.740 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.778 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} přidaná do databázy.
+12:12:52.779 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} přidaná do databázy.
+12:12:52.784 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entita Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} odstraněna z databáze.
+12:13:09.842 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Chyba při získávání všech entit z databáze : Cannot create PoolableConnectionFactory (java.net.ConnectException : Chyba při připojování k serveru localhost na portu 1527 se zprávou: Connection refused.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Chyba při připojování k serveru localhost na portu 1527 se zprávou: Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) ~[classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251) ~[na:1.7.0_25]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733) ~[na:1.7.0_25]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) ~[na:1.7.0_25]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) ~[na:1.7.0_25]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) ~[na:1.7.0_25]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_25]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) ~[na:1.7.0_25]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) ~[na:1.7.0_25]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) ~[na:1.7.0_25]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Chyba při připojování k serveru localhost na portu 1527 se zprávou: Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Chyba při připojování k serveru localhost na portu 1527 se zprávou: Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_25]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_25]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_25]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_25]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_25]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_25]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_25]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_25]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_25]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_25]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_25]
+	... 32 common frames omitted

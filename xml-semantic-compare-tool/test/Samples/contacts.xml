@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- basic XML file sample to which others validate to -->
+<xt:contacts xmlns:xt="http://www.w3schools.com/people">
+    <xt:contact id="1">
+        <xt:name>Jan Novák</xt:name>
+        <xt:birthday>10/1/1984</xt:birthday>
+        <xt:phone-numbers>
+            <xt:phone-number>
+                <xt:number>+420123456789</xt:number>
+                <xt:description>Mobile</xt:description>
+            </xt:phone-number>
+            <xt:phone-number>
+                <xt:number>+420987654321</xt:number>
+                <xt:description>Work</xt:description>
+            </xt:phone-number>
+        </xt:phone-numbers>
+        <xt:emails>
+            <xt:email desc="work">jnovak@company.cz</xt:email>
+            <xt:email desc="private">jan.novak@seznam.cz</xt:email>
+        </xt:emails>
+        <xt:hobbies>
+            <xt:hobby type="outdoor" skill="2">cycling</xt:hobby>
+            <xt:hobby type="indoor" skill="3">chess</xt:hobby>
+        </xt:hobbies>
+    </xt:contact>
+    <xt:contact id="2">
+        <xt:name>Petr Malý</xt:name>
+        <xt:birthday>20/1/1982</xt:birthday>
+        <xt:phone-numbers>
+            <xt:phone-number>
+                <xt:number>+420999888777</xt:number>
+                <xt:description>Mobile</xt:description>
+            </xt:phone-number>
+            <xt:phone-number>
+                <xt:number>+420666555444</xt:number>
+                <xt:description>Work</xt:description>
+            </xt:phone-number>
+        </xt:phone-numbers>
+        <xt:emails></xt:emails>
+        <xt:hobbies>
+            <xt:hobby type="indoor" skill="1">chess</xt:hobby>
+            <xt:hobby type="outdoor" skill="3">skying</xt:hobby>
+            <xt:hobby type="outdoor" skill="2">rock-climbing</xt:hobby>
+        </xt:hobbies>
+    </xt:contact>
+</xt:contacts>

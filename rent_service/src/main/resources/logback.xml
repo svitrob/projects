@@ -1,0 +1,73 @@
+<configuration debug="true">
+    
+    <!-- Properties -->
+    <contextName>RentService</contextName>
+    <timestamp key="byDay" datePattern="yyyy-MM-dd"/>
+    
+    <!-- Output to Console -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+    	<encoder>            
+            <pattern>%date %level [%thread] %10logger [%file:%line] %msg%n</pattern>
+    	</encoder>        
+    </appender>
+        
+     <!-- Output to File CONTEXT_NAME -->
+    <appender name="CustomerManagerImpl" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/CustomerManager/${byDay}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>        
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{32} - %msg%n</pattern>            
+        </encoder>
+    </appender>
+    <appender name="VehicleManagerImpl" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/VehicleManager/${byDay}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">            
+            <fileNamePattern>%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>        
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{32} - %msg%n</pattern>            
+        </encoder>
+    </appender>
+    <appender name="ReservationManagerImpl" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/ReservationManager/${byDay}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">            
+            <fileNamePattern>%d{yyyy-MM-dd}.log</fileNamePattern>         
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>        
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{32} - %msg%n</pattern>            
+        </encoder>
+    </appender>
+    <appender name="Error" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/Error/${byDay}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">            
+            <fileNamePattern>%d{yyyy-MM-dd}.log</fileNamePattern>            
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>        
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{32} - %msg%n</pattern>            
+        </encoder>
+    </appender>
+    
+       
+    <logger name="cz.muni.fi.pv168.rent.CustomerManagerImpl" level="DEBUG">
+        <appender-ref ref="CustomerManagerImpl" />
+    </logger>
+    <logger name="cz.muni.fi.pv168.rent.VehicleManagerImpl" level="DEBUG">
+        <appender-ref ref="VehicleManagerImpl" />
+    </logger>
+    <logger name="cz.muni.fi.pv168.rent.ReservationManagerImpl" level="DEBUG">
+        <appender-ref ref="ReservationManagerImpl" />
+    </logger>
+    <logger name="cz.muni.fi.pv168.rent.Error" level="DEBUG">
+        <appender-ref ref="Error" />
+    </logger>
+    
+    <root level="DEBUG">
+    	<appender-ref ref="console" />   
+    </root>
+</configuration>

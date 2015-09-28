@@ -1,0 +1,438 @@
+11:30:48.864 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:49.455 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:49.481 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:49.498 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:49.542 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+11:30:50.383 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:50.386 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:50.389 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:50.747 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:50.772 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:50.777 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:51.124 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+11:30:51.368 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:51.383 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:51.474 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:51.475 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:51.487 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+11:30:53.528 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:53.574 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:53.591 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:53.675 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:53.830 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:54.002 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:54.052 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:54.070 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:54.175 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:54.218 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:30:54.236 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:30:54.631 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:30:54.648 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:43.533 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:44.089 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:44.134 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:44.140 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:44.184 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+11:31:45.103 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:45.106 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:45.115 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:45.669 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:45.685 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:45.690 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:46.003 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+11:31:46.205 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:46.219 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:46.315 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:46.317 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:46.329 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+11:31:48.579 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:48.627 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:48.641 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:48.747 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:48.914 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:49.105 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:49.151 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:49.170 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:49.271 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:49.333 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:31:49.348 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:31:49.740 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:31:49.757 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:32:41.771 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	... 32 common frames omitted
+11:56:16.678 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:17.275 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:17.328 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:17.334 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:17.369 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+11:56:18.295 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:18.297 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:18.299 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:18.562 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:18.580 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:18.593 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:18.923 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+11:56:19.180 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:19.196 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:19.289 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:19.292 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:19.302 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+11:56:21.492 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:21.539 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:21.556 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:21.654 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:21.819 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:21.997 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:22.058 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:22.078 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:22.179 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:22.233 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+11:56:22.249 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+11:56:22.591 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+11:56:22.605 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:09.073 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:09.666 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:09.713 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:09.719 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:09.756 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+12:03:10.817 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:10.819 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:10.821 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:11.141 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:11.164 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:11.172 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:11.489 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+12:03:11.738 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:11.752 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:11.842 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:11.844 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:11.861 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+12:03:14.091 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:14.142 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:14.159 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:14.261 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:14.410 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:14.621 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:14.766 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:14.785 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:14.910 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:14.963 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:14.979 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:03:15.380 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:03:15.398 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:03:32.209 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:341) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 21 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 26 common frames omitted
+12:07:11.122 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Table/View 'CUSTOMER' does not exist.
+java.sql.SQLSyntaxErrorException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:342) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 22 common frames omitted
+12:16:02.563 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:03.214 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:03.245 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:03.251 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:03.316 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+12:16:04.175 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:04.178 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:04.180 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:04.481 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:04.498 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:04.504 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:04.865 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+12:16:05.138 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:05.155 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:05.274 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:05.275 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:05.294 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+12:16:07.512 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:07.561 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:07.576 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:07.663 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:07.832 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:08.008 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:08.063 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:08.079 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:08.195 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:08.253 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:08.272 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:16:08.634 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:16:08.651 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:16:31.975 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Table/View 'CUSTOMER' does not exist.
+java.sql.SQLSyntaxErrorException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:342) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 22 common frames omitted
+12:59:40.251 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:41.053 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:41.143 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:41.153 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:41.223 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} removed from the database.
+12:59:41.983 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:41.985 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:41.987 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:42.475 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:42.498 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:42.502 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:42.842 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Hlavna 63, phone=336484, email=meno@email.com} added to the database.
+12:59:43.094 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:43.107 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:43.221 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:43.224 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:43.236 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} removed from the database.
+12:59:46.185 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:46.522 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:46.537 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:46.619 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:46.785 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:46.934 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:46.977 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:46.995 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:47.095 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:47.195 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+12:59:47.223 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com} added to the database.
+12:59:47.565 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com} added to the database.
+12:59:47.581 [main] DEBUG c.m.f.p.rent.CustomerManagerImpl - Entity Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com} added to the database.
+13:00:44.212 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Table/View 'CUSTOMER' does not exist.
+java.sql.SQLSyntaxErrorException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:342) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 22 common frames omitted
+13:16:42.894 [AWT-EventQueue-0] WARN  c.m.f.p.rent.CustomerManagerImpl - Error when getting all entities from database : Table/View 'CUSTOMER' does not exist.
+java.sql.SQLSyntaxErrorException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.CustomerManagerImpl.getAllCustomers(CustomerManagerImpl.java:342) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$CustomerTableModel.<init>(MainWindow.java:1172) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.initComponents(MainWindow.java:162) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.<init>(MainWindow.java:56) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$28.run(MainWindow.java:1113) [classes/:na]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745) [na:1.7.0_79]
+	at java.awt.EventQueue.access$300(EventQueue.java:103) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:706) [na:1.7.0_79]
+	at java.awt.EventQueue$3.run(EventQueue.java:704) [na:1.7.0_79]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_79]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_79]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_79]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'CUSTOMER' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 22 common frames omitted
