@@ -1,0 +1,562 @@
+11:34:41.623 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:41.669 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:41.692 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:41.882 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.122 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.363 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.420 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.445 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.471 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+11:34:42.629 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.690 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:42.710 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:43.230 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:43.250 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+11:34:43.259 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+12:17:08.983 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.017 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.035 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.151 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.316 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.496 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.542 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.564 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.584 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+12:17:09.684 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.724 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:09.748 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:10.144 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:10.164 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:17:10.172 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+12:36:51.975 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.031 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.051 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.295 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.521 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.691 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.754 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.774 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.794 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+12:36:52.897 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.937 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:52.956 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:53.397 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:53.421 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+12:36:53.429 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+12:38:36.516 [SwingWorker-pool-1-thread-1] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=4, name=Ken Grim, address=Wood St. 41, phone=914 120 914, email=ken.grim@gmail.com}, 2015-10-14, 2015-10-16, null,  into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+java.sql.SQLException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.setTimestamp(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:131) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$ReservationTableModel.addReservation(MainWindow.java:1393) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:859) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:829) [classes/:na]
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296) [na:1.7.0_79]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [na:1.7.0_79]
+	at javax.swing.SwingWorker.run(SwingWorker.java:335) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [na:1.7.0_79]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	... 13 common frames omitted
+12:41:10.098 [SwingWorker-pool-1-thread-9] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=250.0000, brand=SEAT}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-09, 2015-10-10, null, first into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+java.sql.SQLException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.setTimestamp(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:131) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$ReservationTableModel.addReservation(MainWindow.java:1393) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:859) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:829) [classes/:na]
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296) [na:1.7.0_79]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [na:1.7.0_79]
+	at javax.swing.SwingWorker.run(SwingWorker.java:335) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [na:1.7.0_79]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	... 13 common frames omitted
+13:16:13.099 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.getAllReservation_AddingReservations_ShouldRetrunAll(ReservationManagerImplTest.java:283) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 45 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.ac5ab50498x0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 39 common frames omitted
+13:16:13.257 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.createReservation_ValidReservation_ReservationShouldBeCreated(ReservationManagerImplTest.java:133) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 45 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.acc91f04b9x0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 39 common frames omitted
+13:16:13.413 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.getReservationById_ValidId_ShouldReturnReservation(ReservationManagerImplTest.java:243) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 45 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.aca62d04d8x0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 39 common frames omitted
+13:16:13.596 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.deleteReservation_ValidReservation_ReservationShouldBeRemoved(ReservationManagerImplTest.java:187) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 45 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.ac923a450fx0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 39 common frames omitted
+13:16:13.680 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.createReservation_AlreadyExistingReservation_ReservationShouldNotBeCreated(ReservationManagerImplTest.java:150) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 46 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.ac01e2c52ex0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 40 common frames omitted
+13:16:14.095 [main] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info into the database At least one parameter to the current statement is uninitialized.
+java.sql.SQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:134) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.ReservationManagerImplTest.getReservationById_InvalidId_ShouldReturnNull(ReservationManagerImplTest.java:257) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:na]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:na]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:na]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:na]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:na]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:na]
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:35) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:115) [surefire-junit4-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:97) [surefire-junit4-2.7.2.jar:2.7.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_79]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_79]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_79]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_79]
+	at org.apache.maven.surefire.booter.ProviderFactory$ClassLoaderProxy.invoke(ProviderFactory.java:103) [surefire-booter-2.7.2.jar:2.7.2]
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source) [na:na]
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:150) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcess(SurefireStarter.java:91) [surefire-booter-2.7.2.jar:2.7.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:69) [surefire-booter-2.7.2.jar:2.7.2]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 45 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: At least one parameter to the current statement is uninitialized.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.throwIfMissingParms(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.exe.ac687a85c5x0150x231dxcb11x00000349fcf03.reinit(Unknown Source) ~[na:na]
+	at org.apache.derby.impl.sql.execute.BaseActivation.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericActivationHolder.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 39 common frames omitted
+13:17:24.961 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:24.992 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.009 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.124 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.268 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.502 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.540 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.560 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.579 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+13:17:25.672 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.736 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:25.759 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:26.141 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:26.162 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:17:26.169 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+13:18:33.065 [SwingWorker-pool-1-thread-2] WARN  c.m.f.p.r.ReservationManagerImpl - Error when inserting null, Vehicle{id=1, price=250.0000, brand=SEAT}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-06, 2015-10-09, null, lloop into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+java.sql.SQLException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.setTimestamp(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.setTimestamp(DelegatingPreparedStatement.java:242) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.createReservation(ReservationManagerImpl.java:131) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$ReservationTableModel.addReservation(MainWindow.java:1393) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:859) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$24.doInBackground(MainWindow.java:829) [classes/:na]
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296) [na:1.7.0_79]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [na:1.7.0_79]
+	at javax.swing.SwingWorker.run(SwingWorker.java:335) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [na:1.7.0_79]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [na:1.7.0_79]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_79]
+Caused by: org.apache.derby.client.am.SqlException: Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+	... 13 common frames omitted
+13:21:18.748 [SwingWorker-pool-1-thread-1] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-08, 2015-10-09, null, sdss added to the database
+13:21:29.150 [SwingWorker-pool-1-thread-3] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-08, 2015-10-09, 2015-10-16, sdss updated
+13:42:41.645 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:41.683 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:41.700 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:41.831 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.002 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.204 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.234 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.255 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.281 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+13:42:42.374 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.422 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.479 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.917 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.937 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+13:42:42.945 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+13:43:26.231 [SwingWorker-pool-1-thread-2] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2015-10-15, 2015-10-23, null,  added to the database
+13:43:56.880 [SwingWorker-pool-1-thread-5] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2015-10-15, 2015-10-23, 2015-10-22,  updated
+13:44:33.124 [SwingWorker-pool-1-thread-10] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2015-10-15, 2015-10-23, 2015-10-15,  updated
+13:45:11.453 [SwingWorker-pool-1-thread-1] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=11, name=Adam West, address=Maple St. 78, phone=099 758 658, email=west@mail.com}, 2015-10-15, 2015-10-28, null,  updated
+13:45:25.687 [SwingWorker-pool-1-thread-4] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=11, name=Adam West, address=Maple St. 78, phone=099 758 658, email=west@mail.com}, 2015-10-15, 2015-10-20, 2015-10-16,  updated
+13:45:48.901 [SwingWorker-pool-1-thread-5] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=4, price=1500.0000, brand=AUDI}, Customer{id=9, name=Moly Guston, address=High St. 61, phone=118 122 961, email=moly.guston@gmail.com}, 2015-10-17, 2015-10-18, null,  added to the database
+14:36:30.146 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:30.190 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:30.220 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:30.440 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:30.700 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:30.922 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:31.041 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:31.065 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:31.115 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:36:31.296 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:31.482 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:31.504 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:32.108 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:32.166 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:36:32.178 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:46:23.579 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:23.806 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:23.841 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:24.063 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:24.365 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.142 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.219 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.250 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.288 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:46:25.469 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.563 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:25.588 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:26.225 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:26.247 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:46:26.255 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:50:02.436 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:02.503 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:02.538 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:02.924 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.177 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.470 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.512 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.536 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.574 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:50:03.728 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.791 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:03.812 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:04.379 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:04.404 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:50:04.415 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:55:56.290 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.331 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.366 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.548 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.683 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.919 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:56.981 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:57.038 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:57.218 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+14:55:57.917 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:58.118 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:58.251 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:58.900 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:58.922 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+14:55:58.931 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+15:00:42.610 [SwingWorker-pool-1-thread-3] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=3, price=800.0000, brand=RENAULT}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-08, 2015-10-16, null, khk added to the database

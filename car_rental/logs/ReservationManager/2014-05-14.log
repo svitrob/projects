@@ -1,0 +1,110 @@
+08:13:04.487 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.518 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.529 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.624 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.722 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.861 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.879 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.890 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.909 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+08:13:04.977 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:04.994 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:05.003 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:05.272 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:05.282 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info added to the database
+08:13:05.286 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info removed from the database
+08:40:20.086 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-21, 2014-05-22, null, asd asd added to the database
+08:41:00.877 [AWT-EventQueue-0] WARN  c.m.f.p.r.ReservationManagerImpl - Error when updating database: 1 : UPDATE on table 'RESERVATION' caused a violation of foreign key constraint 'RESERVATION_VEHICLE_FK' for key (2).  The statement has been rolled back.
+java.sql.SQLIntegrityConstraintViolationException: UPDATE on table 'RESERVATION' caused a violation of foreign key constraint 'RESERVATION_VEHICLE_FK' for key (2).  The statement has been rolled back.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeStatement(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeLargeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.EmbedPreparedStatement.executeUpdate(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.ReservationManagerImpl.updateReservation(ReservationManagerImpl.java:299) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$ReservationTableModel.updateReservation(MainWindow.java:1236) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.jButton8ActionPerformed(MainWindow.java:852) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.access$1400(MainWindow.java:22) [classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow$13.actionPerformed(MainWindow.java:354) [classes/:na]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2018) [na:1.7.0_51]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2341) [na:1.7.0_51]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402) [na:1.7.0_51]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259) [na:1.7.0_51]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252) [na:1.7.0_51]
+	at java.awt.Component.processMouseEvent(Component.java:6505) [na:1.7.0_51]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3320) [na:1.7.0_51]
+	at java.awt.Component.processEvent(Component.java:6270) [na:1.7.0_51]
+	at java.awt.Container.processEvent(Container.java:2229) [na:1.7.0_51]
+	at java.awt.Component.dispatchEventImpl(Component.java:4861) [na:1.7.0_51]
+	at java.awt.Container.dispatchEventImpl(Container.java:2287) [na:1.7.0_51]
+	at java.awt.Component.dispatchEvent(Component.java:4687) [na:1.7.0_51]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832) [na:1.7.0_51]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4492) [na:1.7.0_51]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4422) [na:1.7.0_51]
+	at java.awt.Container.dispatchEventImpl(Container.java:2273) [na:1.7.0_51]
+	at java.awt.Window.dispatchEventImpl(Window.java:2719) [na:1.7.0_51]
+	at java.awt.Component.dispatchEvent(Component.java:4687) [na:1.7.0_51]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735) [na:1.7.0_51]
+	at java.awt.EventQueue.access$200(EventQueue.java:103) [na:1.7.0_51]
+	at java.awt.EventQueue$3.run(EventQueue.java:694) [na:1.7.0_51]
+	at java.awt.EventQueue$3.run(EventQueue.java:692) [na:1.7.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_51]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_51]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87) [na:1.7.0_51]
+	at java.awt.EventQueue$4.run(EventQueue.java:708) [na:1.7.0_51]
+	at java.awt.EventQueue$4.run(EventQueue.java:706) [na:1.7.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.7.0_51]
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76) [na:1.7.0_51]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138) [na:1.7.0_51]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91) [na:1.7.0_51]
+Caused by: org.apache.derby.impl.jdbc.EmbedSQLException: UPDATE on table 'RESERVATION' caused a violation of foreign key constraint 'RESERVATION_VEHICLE_FK' for key (2).  The statement has been rolled back.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 53 common frames omitted
+Caused by: org.apache.derby.iapi.error.StandardException: UPDATE on table 'RESERVATION' caused a violation of foreign key constraint 'RESERVATION_VEHICLE_FK' for key (2).  The statement has been rolled back.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.ForeignKeyRIChecker.doCheck(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.GenericRIChecker.doCheck(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.RISetChecker.doFKCheck(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.UpdateResultSet.collectAffectedRows(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.execute.UpdateResultSet.open(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(Unknown Source) ~[derby-10.10.1.1.jar:na]
+	... 47 common frames omitted
+08:44:20.795 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=2.0000, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-15, 2014-05-16, null,  added to the database
+08:44:25.864 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=2.0000, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-15, 2014-05-17, null,  updated
+08:44:38.534 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-15, 2014-05-17, null,  updated
+08:44:49.922 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-05-15, 2014-05-17, null,  updated
+08:45:14.867 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=2.0000, brand=FORD}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-05-15, 2014-05-17, null,  updated
+08:47:28.008 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-05-15, 2014-05-16, null,  added to the database
+08:47:41.273 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=2.0000, brand=FORD}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-05-15, 2014-05-16, null,  updated
+08:47:47.461 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 1, Vehicle{id=2, price=2.0000, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-15, 2014-05-16, null,  updated
+08:48:04.299 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 2, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-05-14, 2014-05-15, null,  added to the database
+08:48:26.162 [AWT-EventQueue-0] DEBUG c.m.f.p.r.ReservationManagerImpl - Entity 3, Vehicle{id=1, price=1.0000, brand=AUDI}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-05-20, 2014-05-22, null,  added to the database
+12:12:51.156 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.189 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.202 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.310 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.425 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.581 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.602 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.616 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.638 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info odstraněna z databáze
+12:12:51.717 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.737 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:51.747 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 3, Vehicle{id=3, price=4, brand=SKODA}, Customer{id=3, name=Tom Gober, address=Forest St. 51, phone=758 174 994, email=tom.gober@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:52.046 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 1, Vehicle{id=1, price=2, brand=AUDI}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:52.057 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info přidaná do databázy
+12:12:52.062 [main] DEBUG c.m.f.p.r.ReservationManagerImpl - Entita 2, Vehicle{id=2, price=1, brand=FORD}, Customer{id=2, name=Alan Herold, address=Main St. 27, phone=368 987 124, email=alan.herold@gmail.com}, 2014-02-01, 2014-06-05, null, info odstraněna z databáze

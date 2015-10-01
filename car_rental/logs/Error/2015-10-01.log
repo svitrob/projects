@@ -1,0 +1,1131 @@
+11:49:10.364 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLSyntaxErrorException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:328) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: org.apache.derby.client.am.SqlException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 5 common frames omitted
+12:12:47.054 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLSyntaxErrorException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:328) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: org.apache.derby.client.am.SqlException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 5 common frames omitted
+12:13:08.959 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLNonTransientConnectionException: A network protocol error was encountered and the connection has been terminated: The requested command encountered an unarchitected and implementation-specific condition for which there was no architected message (additional information may be available in the derby.log file on the server).
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.executeUpdate(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:97) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:328) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: org.apache.derby.client.am.DisconnectException: A network protocol error was encountered and the connection has been terminated: The requested command encountered an unarchitected and implementation-specific condition for which there was no architected message (additional information may be available in the derby.log file on the server).
+	at org.apache.derby.client.net.NetConnectionReply.parseCMDCHKRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseCommitError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBCMMreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readLocalCommit(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ConnectionReply.readLocalCommit(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readLocalCommit_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.readCommit(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowExecute(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.executeUpdateX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 5 common frames omitted
+Caused by: org.apache.derby.client.am.SqlException: DERBY SQL error: ERRORCODE: 40000, SQLSTATE: 08003, SQLERRMC: No current connection.
+	... 14 common frames omitted
+12:13:09.021 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:836) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:434) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:361) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:102) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 10 common frames omitted
+12:14:20.685 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1103) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:14:20.701 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:14:20.707 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:14:50.367 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:14:50.377 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:14:50.385 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1118) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:15:06.595 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:15:06.605 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:16:49.127 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:16:49.139 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:16:49.166 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1118) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:18:12.896 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1104) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:18:12.906 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:18:12.915 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1118) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+12:37:22.360 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLSyntaxErrorException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:328) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1107) [classes/:na]
+Caused by: org.apache.derby.client.am.SqlException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 5 common frames omitted
+12:38:45.947 [SwingWorker-pool-1-thread-1] WARN  cz.muni.fi.pv168.rent.Error - Error when inserting null, Vehicle{id=2, price=400.0000, brand=SKODA}, Customer{id=4, name=Ken Grim, address=Wood St. 41, phone=914 120 914, email=ken.grim@gmail.com}, 2015-10-14, 2015-10-16, null,  into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+12:41:20.479 [SwingWorker-pool-1-thread-9] WARN  cz.muni.fi.pv168.rent.Error - Error when inserting null, Vehicle{id=1, price=250.0000, brand=SEAT}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-09, 2015-10-10, null, first into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+13:18:47.177 [SwingWorker-pool-1-thread-2] WARN  cz.muni.fi.pv168.rent.Error - Error when inserting null, Vehicle{id=1, price=250.0000, brand=SEAT}, Customer{id=1, name=John Smith, address=Maple St. 3, phone=836 484 147, email=john.smith@gmail.com}, 2015-10-06, 2015-10-09, null, lloop into the database Invalid value 'null' passed as parameter 'calendar' to method 'setTimestamp()'
+13:49:39.175 [SwingWorker-pool-1-thread-5] WARN  cz.muni.fi.pv168.rent.Error - Error when deleting from database. You must delete all reservation using this entity first.
+14:39:32.159 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:21.372 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:21.398 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:21.411 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1069) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:39.554 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:39.576 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:48:39.583 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1069) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:51:36.706 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/dropTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1069) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:53:41.486 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:53:41.501 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:53:42.889 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:53:42.928 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: java.net.ConnectException : Error connecting to server localhost on port 1527 with message Connection refused.
+	at org.apache.derby.client.net.NetAgent.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.newAgent_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_79]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_79]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_79]
+	at java.net.Socket.connect(Socket.java:528) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:425) ~[na:1.7.0_79]
+	at java.net.Socket.<init>(Socket.java:208) ~[na:1.7.0_79]
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:271) ~[na:1.7.0_79]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.OpenSocketAction.run(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	... 15 common frames omitted
+14:55:42.003 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+14:55:42.025 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+14:56:13.971 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/createTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1056) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+14:56:13.986 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLException: Cannot create PoolableConnectionFactory (The connection was refused because the database rent-db was not found.)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2152) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:1903) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1413) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:325) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: java.sql.SQLNonTransientConnectionException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.jdbc.ClientDriver.connect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2162) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2148) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	... 4 common frames omitted
+Caused by: org.apache.derby.client.am.DisconnectException: The connection was refused because the database rent-db was not found.
+	at org.apache.derby.client.net.NetConnectionReply.parseRDBNFNRM(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseAccessRdbError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.parseACCRDBreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnectionReply.readAccessDatabase(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.readSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowSecurityCheckAndAccessRdb(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowUSRIDPWDconnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.flowConnect(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetConnection40.<init>(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.ClientJDBCObjectFactoryImpl40.newNetConnection(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 9 common frames omitted
+14:57:37.167 [main] WARN  cz.muni.fi.pv168.rent.Error - Error execution script : {}file:/home/rs/programming/pv168/pr/rentFinal/target/classes/initTables.sql
+java.sql.SQLSyntaxErrorException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatement(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingConnection.prepareStatement(DelegatingConnection.java:288) ~[tomcat-dbcp-8.0.5.jar:8.0.5]
+	at cz.muni.fi.pv168.rent.DBUtils.executeSqlScript(DBUtils.java:328) ~[classes/:na]
+	at cz.muni.fi.pv168.rent.MainWindow.main(MainWindow.java:1059) [classes/:na]
+Caused by: org.apache.derby.client.am.SqlException: Columns of type 'TIMESTAMP' cannot hold values of type 'INTEGER'. 
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.readPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.flowPrepareDescribeInputOutput(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.PreparedStatement.prepare(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	at org.apache.derby.client.am.Connection.prepareStatementX(Unknown Source) ~[derbyclient-10.10.1.1.jar:na]
+	... 5 common frames omitted
